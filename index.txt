@@ -1,0 +1,6 @@
+Git繝√Η繝ｼ繝医Μ繧｢繝ｫ
+git status
+git diff
+git commit --amend
+git merge
+コンフリクト
